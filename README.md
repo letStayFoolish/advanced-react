@@ -63,7 +63,7 @@ pnpm run dev
 ## Folder Structure
 
 The repository is organized with each chapter as a subfolder in the root directory:
-
+```
 ├── chapter-01/
 │   ├── src/
 │   ├── public/
@@ -73,6 +73,7 @@ The repository is organized with each chapter as a subfolder in the root directo
 │   ├── public/
 │   └── vite.config.ts
 └── README.md
+```
 
 ## Best Practices
 
