@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { getPosition } from "../../utils/getPosition.ts";
-import MovingBlock from "../MovingBlock.tsx";
+import MovingBlock from "../mocks/MovingBlock.tsx";
 
 /**
  * In this case (solution) state and its update is passed down to the component only needing it.

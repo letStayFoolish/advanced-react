@@ -45,7 +45,7 @@ To get started with this project, you can follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/letStayFoolish/advanced-react/tree/main
+   git clone https://github.com/letStayFoolish/advanced-react
 
 2. **Install dependencies using pnpm:**
 ```bash 
@@ -72,6 +72,8 @@ The repository is organized with each chapter as a subfolder in the root directo
 │   ├── src/
 │   ├── public/
 │   └── vite.config.ts
+├── rest of the chapters...
+│     ...
 └── README.md
 ```
 

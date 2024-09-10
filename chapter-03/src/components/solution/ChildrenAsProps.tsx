@@ -1,6 +1,6 @@
 import React, { PropsWithChildren, useState } from "react";
-import MovingBlock from "../MovingBlock.tsx";
 import { getPosition } from "../../utils/getPosition.ts";
+import MovingBlock from "../mocks/MovingBlock.tsx";
 
 /**
  * Props are just an object that we pass as the first argument to our component function.

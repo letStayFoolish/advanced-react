@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import VerySlowComponent from "../VerySlowComponent.tsx";
-import BunchOfStuff from "../BunchOfStuff.tsx";
-import OtherStuffAlsoComplicated from "../OtherStuffAlsoComplicated.tsx";
 import { getPosition } from "../../utils/getPosition.ts";
 import MovingBlock from "../MovingBlock.tsx";
+import VerySlowComponent from "../mocks/VerySlowComponent.tsx";
+import BunchOfStuff from "../mocks/BunchOfStuff.tsx";
+import OtherStuffAlsoComplicated from "../mocks/OtherStuffAlsoComplicated.tsx";
 
 /**
  * Keynotes:

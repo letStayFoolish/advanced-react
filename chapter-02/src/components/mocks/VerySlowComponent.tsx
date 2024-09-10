@@ -1,5 +1,5 @@
 import React from "react";
-import { wait } from "../utils/wait.ts";
+import { wait } from "../../utils/wait.ts";
 
 const VerySlowComponent: React.FC = () => {
   console.log("VerySlowComponent render!");

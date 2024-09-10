@@ -1,8 +1,9 @@
 import React from "react";
-import VerySlowComponent from "../VerySlowComponent.tsx";
-import BunchOfStuff from "../BunchOfStuff.tsx";
-import OtherStuffAlsoComplicated from "../OtherStuffAlsoComplicated.tsx";
+
 import ScrollableWithMovingBlock from "./ScrollableWithMovingBlock.tsx";
+import VerySlowComponent from "../mocks/VerySlowComponent.tsx";
+import BunchOfStuff from "../mocks/BunchOfStuff.tsx";
+import OtherStuffAlsoComplicated from "../mocks/OtherStuffAlsoComplicated.tsx";
 
 const ComponentWithSolution: React.FC = () => {
   console.log("ComponentWithSolution render!");
