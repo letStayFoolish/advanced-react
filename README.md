@@ -24,12 +24,14 @@ Key topics include:
 ## Chapters
 Each chapter corresponds to a chapter from the book and is contained in its own folder within the project. These chapters focus on specific React techniques, strategies, or optimizations.
 
-| Chapter | Description |
-|---------|-------------|
+| Chapter   | Description |
+|-----------|-------------|
 | Chapter 1 | Introduction to Advanced React Concepts |
 | Chapter 2 | Performance Optimizations in React |
 | Chapter 3 | Managing State at Scale |
-| ... | ... |
+| Chapter 4 | Advanced conﬁguration with render props |
+| Chapter 5 | Memoization with useMemo, useCallback and React.memo |
+| ...       | ... |
 
 ## Tech Stack
 This project uses the following tech stack:
