@@ -28,9 +28,10 @@ Each chapter corresponds to a chapter from the book and is contained in its own 
 |-----------|-------------|
 | Chapter 1 | Introduction to Advanced React Concepts |
 | Chapter 2 | Elements, children as props, and re-renders |
-| Chapter 3 | Managing State at Scale |
+| Chapter 3 | Configuration concerns with elements as props |
 | Chapter 4 | Advanced conﬁguration with render props |
 | Chapter 5 | Memoization with useMemo, useCallback and React.memo |
+| Chapter 6 | Deep dive into diffing and reconciliation |
 | ...       | ... |
 
 ## Tech Stack

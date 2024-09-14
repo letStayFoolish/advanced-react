@@ -1,6 +1,5 @@
 import React from "react";
 
-import MemoizedComponents from "./components/solution";
 import MemoWithChildren from "./components/problem/MemoWithChildren.tsx";
 
 const App: React.FC = () => {
